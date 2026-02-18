@@ -1,4 +1,4 @@
-# Operating Systems — Explained Simply
+# Operating Systems — 1
 
 ---
 
