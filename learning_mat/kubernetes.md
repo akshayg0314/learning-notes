@@ -1,4 +1,4 @@
-# Docker, Kubernetes & Cloud Native — Explained Simply
+# Docker, Kubernetes & Cloud Native
 
 ---
 
