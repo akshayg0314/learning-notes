@@ -1,4 +1,4 @@
-# Operating Systems Part 2 — Explained Simply
+# Operating Systems -- 2
 
 ---
 
