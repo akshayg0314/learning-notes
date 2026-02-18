@@ -1,4 +1,4 @@
-# Move Semantics & Smart Pointers — Explained Simply
+# Move Semantics & Smart Pointers
 
 ---
 
