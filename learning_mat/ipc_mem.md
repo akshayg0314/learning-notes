@@ -1,4 +1,4 @@
-# IPC & Memory Management — Explained Simply
+# IPC & Memory Management
 
 ## What Problem Are We Solving?
 
