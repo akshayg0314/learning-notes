@@ -1,4 +1,4 @@
-# Timing & Synchronization — PTP Explained Simply
+# Timing & Synchronization — PTP 
 
 ## What Problem Does PTP Solve?
 
