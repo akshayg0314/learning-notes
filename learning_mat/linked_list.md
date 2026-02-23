@@ -1,4 +1,4 @@
-# Linked List — Explained Simply (C++)
+# Linked List — (C++)
 
 ---
 
